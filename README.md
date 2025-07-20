@@ -1,2 +1,2 @@
 # desastre
-herramienta basada en doxxer tollkit
+herramienta de osting
